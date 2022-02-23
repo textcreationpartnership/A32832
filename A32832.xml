@@ -1,0 +1,504 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd upon the first Sunday after the proclamation of the High and Mighty Prince, James the II, by the grace of God, King of England, Scotland, France, and Ireland, &amp;c., which was made at Leicester, February the 10th, 1684/5 by Benj. Camfield ...</title>
+            <author>Camfield, Benjamin, 1638-1693.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 58 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32832</idno>
+            <idno type="STC">Wing C386</idno>
+            <idno type="STC">ESTC R5823</idno>
+            <idno type="EEBO-CITATION">13693165</idno>
+            <idno type="OCLC">ocm 13693165</idno>
+            <idno type="VID">101411</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32832)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101411)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 840:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd upon the first Sunday after the proclamation of the High and Mighty Prince, James the II, by the grace of God, King of England, Scotland, France, and Ireland, &amp;c., which was made at Leicester, February the 10th, 1684/5 by Benj. Camfield ...</title>
+                  <author>Camfield, Benjamin, 1638-1693.</author>
+               </titleStmt>
+               <extent>[4], 25, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Charles Brome ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title: A sermon upon the proclamation of King James the II.</note>
+                  <note>Advertisement on p. [1] at end.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Chronicles, 2nd, XIII, 5 --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101411:1" rendition="simple:additions"/>
+            <p>A SERMON Preach'd upon the Firſt <hi>Sunday</hi> after the <hi>Proclamation</hi> OF THE High and Mighty PRINCE, <hi>Iames the</hi> II. By the Grace of God King of <hi>England, Scotland, France,</hi> and <hi>Ireland,</hi> &amp;c.</p>
+            <p>Which was made at <hi>Leiceſter, February</hi> the 10th. 1684/5.</p>
+            <p>
+               <hi>By</hi> Benj. Camfield, <hi>Rector of</hi> Aileſton <hi>near</hi> Leiceſter.</p>
+            <q>
+               <p>Put them in mind to be ſubject, &amp;c. <bibl>
+                     <hi>Titus 3.1.</hi>
+                  </bibl>
+               </p>
+               <p>The Right of the Firſt-born is His, <bibl>
+                     <hi>Deut. 21.17.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Charles Brome,</hi> at the <hi>Gun</hi> at the Weſt-end of St. <hi>Pauls,</hi> 1685.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:101411:2"/>
+            <pb facs="tcp:101411:2"/>
+            <head>To the <hi>Right Honourable,</hi> my very good Lord and Patron, <hi>JOHN</hi> Earl of <hi>RUTLAND, Lord Roos</hi> of <hi>Hamlake, Trusbut,</hi> and <hi>Belvoir, Lord Manners</hi> of <hi>Haddon,</hi> His Majeſty's Lord-Lieutenant for the County of <hi>Leiceſter.</hi>
+            </head>
+            <opener>
+               <salute>My LORD,</salute>
+            </opener>
+            <p>
+               <hi>IT was a Tranſport of exceeding Joy, and com<g ref="char:EOLhyphen"/>fortable</hi> Omen <hi>of our future Happineſs, (af<g ref="char:EOLhyphen"/>ter that afflictive Sadneſs which fill'd all Loyal Hearts, upon the ſurprizing News of the Death of our</hi> moſt Gracious Sovereign of Bl. Memo<g ref="char:EOLhyphen"/>ry) <hi>to ſee and obſerve with what unanimous and chearful Acclamations, and bravery of Reſoluti<g ref="char:EOLhyphen"/>on,</hi> Your Honour, and others of the Nobili<g ref="char:EOLhyphen"/>ty, Gentry, and Clergy of this County, with the Mayor, Aldermen and Burgeſſes of <hi>Lei<g ref="char:EOLhyphen"/>ceſter,</hi> attended the High-Sheriff in Proclaim<g ref="char:EOLhyphen"/>ing the Succeſſion of the High and Mighty King JAMES the Second, as the Undoubted and only Lineal Heir of the Imperial Crown.
+<pb facs="tcp:101411:3"/>
+               <hi>And, ſo ſoon as I had retired from that pub<g ref="char:EOLhyphen"/>lick Solemnity, my Thoughts reſolved themſelves into</hi> Theſe enſuing Meditations, <hi>which I here make bold to preſent Your Lordſhip with; by that means to recommend them farther to a more common acceptance and benefit: As containing in them</hi> a ſeaſonable Mite or Two of that Religious Loyalty which the Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> traineth up all her Members to, and is in a peculiar manner agreeable to Your Ho<g ref="char:EOLhyphen"/>nour's conſtant Sentiments and Inclinations: <hi>In hopes, that Your Lordſhip will not only pardon the preſumption, but admit of this ſmall Preſent for an</hi> additional Teſtimony <hi>of the moſt humble Duty of,</hi>
+            </p>
+            <closer>
+               <salute>My LORD,</salute> 
+               <signed>Your Honour's Perpetually devoted <hi>Chaplain</hi> &amp; <hi>Servant, Benj. Camfield.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:101411:3"/>
+            <head>A SERMON Upon the Proclamation of King James II.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>2 Chronicles 13.5.</hi>
+                     <note place="margin">[<hi>Septuageſima, Feb.</hi> 15. 1684.]</note>
+                  </bibl>
+                  <p>Ought ye not to know, that the Lord God of <hi>Iſ<g ref="char:EOLhyphen"/>rael</hi> gave the Kingdom over <hi>Iſrael</hi> to <hi>David</hi> for ever, even to him and to his Sons by a Covenant of Salt?</p>
+               </q>
+            </epigraph>
+            <p>THe words are part of a <hi>notable Speech</hi> of King <hi>Abijah,</hi> (or <hi>Abijam, as he is elſewhere</hi>
+               <note n="*" place="margin">1 <hi>Kings</hi> 15.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>called</hi>) the Son of <hi>Rehoboam,</hi> and Grand-child of <hi>So<g ref="char:EOLhyphen"/>lomon:</hi> And they are directed here to <hi>Jeroboam,</hi> who had headed the ten Tribes in their Revolt, and to <hi>all Iſrael</hi> with him; as you may read in the <hi>fore-going verſe.</hi> 
+               <q>And <hi>Abijah</hi> ſtood up on Mount <hi>Ephraim,</hi> and ſaid, Hear me, Thou <hi>Jeroboam,</hi> and all <hi>Iſrael;</hi> Ought ye not to know,</q> &amp;c.—And 'tis ſpoken <hi>immediately be<g ref="char:EOLhyphen"/>fore a deſperate battel between their two Armies now ſet in array.</hi> On <hi>Jeroboam's ſide Eight hundred Thouſand men,</hi>
+               <pb n="2" facs="tcp:101411:4"/>and on <hi>Abijah</hi>'s, but <hi>Four hundred Thouſand,</hi> half the number:
+<note place="margin">[* impar con<g ref="char:EOLhyphen"/>greſſus.]</note> Only he animates them here with the <hi>Good<g ref="char:EOLhyphen"/>neſs of their Cauſe,</hi> and alledgeth <hi>That in the firſt place,</hi> as a terror and diſcouragement to their enemies. "Ought ye not to know, <hi>&amp;c.—q. d. You cannot be ignorant of This,</hi> and therefore it is your bounden duty to <hi>acknow<g ref="char:EOLhyphen"/>ledge</hi> it, that my right to the Crown and Kingdom is <hi>inviolable,</hi> founded upon the <hi>Grant of God himſelf;</hi> from whom my Father received the Kingdom over <hi>Iſrael [jure haereditario]</hi> by an <hi>Hereditary Right,</hi> that ought to <hi>abide for ever:</hi> For ſo God gave the Kingdom over <hi>Iſrael</hi> to <hi>David</hi> for ever, even to <hi>him and to his Sons by a Covenant of Salt.</hi>
+            </p>
+            <p>["By a Covenant of Salt.] That is, by a <hi>perpetual, ſacred, and inviolable Covenant.</hi> For Salt drives away corruption, and is therefore (as <hi>Philo ſomewhere</hi>
+               <note place="margin">[* L. de Victi<g ref="char:EOLhyphen"/>mas offerentib.]</note> 
+               <hi>calls it</hi>) the <hi>Emblem of Durability:</hi> And ſo it ſeems explain'd, <hi>Numb.</hi> 18.19. "It is a Covenant of Salt for ever be<g ref="char:EOLhyphen"/>fore the Lord.— Or elſe we may take the account of it from <hi>Vatablus.</hi> Salt, according to the Jewiſh Law, was required with <hi>all their Sacrifices,</hi>
+               <note n="*" place="margin">
+                  <hi>Levit.</hi> 11.13.</note> and Theſe were wont to <hi>accompany ſolemn Leagues and Covenants.</hi>
+               <note n="*" place="margin">
+                  <hi>Pſal.</hi> 50.5.</note> Agreeably to which, a Covenant of Salt is <hi>a ſworn and ſolemn Cove<g ref="char:EOLhyphen"/>nant, ratified and confirmed by ſuch Religious Ceremonies.</hi>
+            </p>
+            <p>
+               <q>Ought ye not to know, that the Lord God of <hi>Iſ<g ref="char:EOLhyphen"/>rael</hi> gave the Kingdom over <hi>Iſrael</hi> unto <hi>David</hi> for ever, even to him and his Sons by a Covenant of Salt?</q> that is, <hi>a ſure, firm, and everlaſting Covenant,</hi> call'd elſewhere, "<hi>The ſure mercies of</hi> David. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>Iſa.</hi> 55.3. <hi>Acts</hi> 13.34. For thus <hi>Nathan the Prophet</hi> addreſs'd himſelf to him, 2 <hi>Sam.</hi> 7.8, <hi>&amp;c.</hi> 
+               <q>Thus ſaith the Lord of Hoſts, I took thee from the Sheep-cote, from following the Sheep, to be Ruler over my people, over <hi>Iſrael.</hi>
+               </q>
+               <note n="*" place="margin">
+                  <hi>Pſal.</hi> 78.72.</note>—<q>And when thy
+<pb n="3" facs="tcp:101411:4"/>days be fulfilled, and thou ſhalt ſleep with thy Fa<g ref="char:EOLhyphen"/>thers, I will ſet up thy Seed after thee, which ſhall proceed out of thy bowels
+<note place="margin">[* <hi>
+                        <g ref="char:V">Ʋ</g>num è li<g ref="char:EOLhyphen"/>beris tuis.]</hi> Va<g ref="char:EOLhyphen"/>tablus.</note>; And I will eſtabliſh his Kingdom: He ſhall build an Houſe for my Name, and I will eſtabliſh the Throne of his Kingdom for ever. I will be his Father, and he ſhall be my Son. If he commit iniquity, I will chaſten him with the rod of a man, and with the ſtripes of the children of men,
+<note place="margin">[† <hi>Humano more &amp; poenâ humanâ. i. be<g ref="char:EOLhyphen"/>nignâ &amp; cle<g ref="char:EOLhyphen"/>menti.]</hi> id.</note> but my mercy ſhall not depart away from him, as I took it from <hi>Saul,</hi> whom I put away before thee:
+<note place="margin">[* <hi>Regnum in tam longo tem<g ref="char:EOLhyphen"/>pore illis non auferam, ut</hi> Saulis <hi>poſteri<g ref="char:EOLhyphen"/>tati abſtuli. Haec interpre<g ref="char:EOLhyphen"/>tatio optima,</hi> Joſephi <hi>eſt, &amp; aliorum</hi> He<g ref="char:EOLhyphen"/>braeorum.] Grotius in Loc.</note> 
+                  <hi>[Rejecting him and his poſterity from the King<g ref="char:EOLhyphen"/>dom.]</hi> And thy Houſe and thy Kingdom ſhall be eſtabliſhed for ever before thee. Thy Throne ſhall be eſtabliſhed for ever.</q>
+            </p>
+            <p>And therefore, though God in his Juſtice and diſ<g ref="char:EOLhyphen"/>pleaſure, for the <hi>ſins of King Solomon,</hi> and <hi>Rehoboam's Inſolency and Raſhneſs,</hi> and the <hi>provocations under both their Reigns,</hi> rent away Ten Tribes from the Twelve, yet he ſtill <hi>reſerved the Principality of</hi> Judah <hi>to the Race of King</hi> David, on the ſcore of <hi>This Oath and Covenant,</hi> until the <hi>coming of Meſſiah;</hi> whoſe Kingdom was to be an Univerſal and Everlaſting Kingdom, though of a ſpiritual nature. Thus, when he <hi>ſpeaks firſt of this Judg<g ref="char:EOLhyphen"/>ment decreed,</hi> the Rent, I mean, of the Kingdom, he <hi>adds,</hi> That he <hi>will not do it in King</hi> Solomon<hi>'s Reign,</hi> becauſe he was the <hi>Son of David.</hi> 
+               <q>For <hi>David</hi> my Ser<g ref="char:EOLhyphen"/>vants ſake,</q> 
+               <hi>ſaith he,</hi> whom I have choſen, 1 <hi>Kings</hi> 11.34. Nay, That he will <hi>continue a Tribe to his Son after him, ver.</hi> 36. <q>That <hi>David</hi> my Servant, <hi>ſaith he,</hi> may have a Light
+<note place="margin">[* <hi>Lucerna pr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> Regno, <hi>ut ex<g ref="char:EOLhyphen"/>ponit</hi> Chaldaeus Paraph. <hi>i. ut ſemper habeat aliquem ex nepotibus ſuis, qui regnet in</hi> Jeru<g ref="char:EOLhyphen"/>ſalem, <hi>me auſpiciente.</hi>] Vatablus in Luc:</note> always before me in <hi>Jeruſalem,</hi> the City which I have choſen to put my name there.</q>—
+<pb n="4" facs="tcp:101411:5"/>So therefore it is recorded of this <hi>King Abijah,</hi> notwith<g ref="char:EOLhyphen"/>ſtanding the <hi>provocation of his ſins,</hi> whoſe heart was not perfect with the Lord his God, as the heart of <hi>David his Great-Grandfather:</hi> 
+               <q>Nevertheleſs, <hi>faith the Text,</hi> for <hi>David</hi>'s ſake did the Lord his God give him a Lamp in <hi>Jeruſalem,</hi> to ſet up his Son after him, and to eſta<g ref="char:EOLhyphen"/>bliſh <hi>Jeruſalem, &amp;c.</hi>
+               </q> 1 <hi>Kings</hi> 15.4, 5.— And ſo after<g ref="char:EOLhyphen"/>wards, in the Reign of <hi>Jehoram the Son of Jehoſaphat,</hi> not<g ref="char:EOLhyphen"/>withſtanding <hi>his provocations,</hi> 2 <hi>Kings</hi> 8.19. <q>Yet the Lord would not deſtroy <hi>Judah</hi> for <hi>David</hi> his Servant's ſake, as he promiſed to give to him always a Light, <hi>[Lamp, or Candle]</hi> and to his Children.</q> And <hi>ſo it is repeted,</hi> 2 <hi>Chron.</hi> 21.7. <q>Howbeit the Lord would not deſtroy the houſe of <hi>David,</hi> becauſe of the Covenant which he had made with <hi>David,</hi> and as he promiſed to give a Light to him, and to his Sons for ever.</q>— And <hi>to this you have a reference, Pſal.</hi> 132.10, <hi>&amp;c.</hi> 
+               <q>For thy Servant <hi>David</hi>'s ſake turn not away the face of thine Anointed. The Lord hath ſworn in truth unto <hi>David,</hi> he will not turn from it: Of the Fruit of thy body will I ſet upon the Throne. If thy Chil<g ref="char:EOLhyphen"/>dren will keep my Covenant, and my Teſtimony that I ſhall teach them, their Children alſo ſhall ſit upon thy Throne for evermore.</q> 
+               <hi>[There ſhould never have been any ſuch thing known as a rent of the Kingdom, or ſtate of Captivity and Bondage.]</hi> 
+               <q>For the Lord hath choſen <hi>Sion,</hi> he hath deſired it for his habitation: This is my reſt for ever, here will I dwell, <hi>&amp;c.</hi> There will I make the Horn of <hi>David</hi> to bud. I have or<g ref="char:EOLhyphen"/>dained a Lamp, <hi>[Candle, or Light, as before]</hi> for mine Anointed. His enemies will I cloath with ſhame, but upon himſelf ſhall his Crown flouriſh.</q>—Whatever <hi>Diminutions or Interruptions</hi> happen'd in the Succeſſion, it was only an <hi>Affliction or puniſhment for the wickedneſs
+<pb n="5" facs="tcp:101411:5"/>both of Princes and People</hi>
+               <note place="margin">[* See <hi>Eccl<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> 47.20, 21.]</note>: But God reſolved to con<g ref="char:EOLhyphen"/>tinue a <hi>Lineal Deſcent of Kings from</hi> David <hi>until the co<g ref="char:EOLhyphen"/>ming of Chriſt, the Son of</hi> David, <hi>and of the ſeed of</hi> Da<g ref="char:EOLhyphen"/>vid, as the <hi>Scripture ſpeaks.</hi> And therefore ſaith he, even in the <hi>caſe of the diviſion of the Kingdom upon the tranſgreſſion of</hi> David<hi>'s Children,</hi> 
+               <q>I will for this afflict the Seed of <hi>David,</hi> but not for ever,</q> 1 <hi>Kings</hi> 11.39. which ſeems to refer unto the <hi>Meſſiah,</hi> who was to be King of <hi>all the Tribes of</hi> Iſrael, <hi>and of the</hi> Gentiles <hi>too,</hi> as <hi>Grotius</hi> notes.—And this now is the <hi>Covenant of Salt,</hi> or perpetual, incorruptible, inviolable Covenant, which King <hi>Abijah</hi> in the Text refers to, and <hi>bottoms his claim upon.</hi> "Ought ye not to know, <hi>&amp;c.</hi>
+            </p>
+            <p>In which words he appeals unto them, as to <hi>Four points eſpecially.</hi>
+            </p>
+            <p n="1">I. The <hi>Supremacy of the King over all his Subjects,</hi> called therefore here, "<hi>The Kingdom over</hi> Iſrael.</p>
+            <p n="2">II. The <hi>Divine Right of that Dominion or Supremacy.</hi> 
+               <q>That the <hi>Lord God of</hi> Iſrael <hi>gave the Kingdom over</hi> Iſrael <hi>unto</hi> David.</q>
+            </p>
+            <p n="3">III. The <hi>Claim of Succeſſion to this Hereditary Kingdom.</hi> 
+               <q>Even <hi>to him, and to his Sons for ever.</hi>
+               </q> And,</p>
+            <p n="4">IV. The <hi>
+                  <g ref="char:V">Ʋ</g>nalterableneſs of this Claim,</hi> grounded upon a <hi>particular Covenant of God here in the Caſe.</hi> 
+               <q>Even to him and his Sons <hi>by a Covenant of Salt.</hi>
+               </q>
+            </p>
+            <p>As to <hi>all theſe points,</hi> I ſay, he appeals to their <hi>own knowledge and conſcience.</hi> "Ought ye not to know This? I will but <hi>briefly run over the particulars.</hi>
+            </p>
+            <pb n="6" facs="tcp:101411:6"/>
+            <p> 
+               <hi>Firſt,</hi> here is couch'd the <hi>unqueſtionable Supremacy of the King over all his Subjects.</hi> 'Tis the <hi>Kingdom over</hi> Iſ<g ref="char:EOLhyphen"/>rael. The <hi>Head of the Tribes of</hi> Iſrael therefore is a phraſe equivalent with <hi>King over</hi> Iſrael, 1 <hi>Sam.</hi> 15.17. <q>When thou waſt little in thine own ſight, <hi>faith he unto</hi> Saul, waſt thou not made the Head of the Tribes of <hi>Iſrael?</hi>
+               </q> and the Lord anointed thee King over <hi>Iſrael.</hi> The very <hi>anointing typified as much,</hi> it being the known property of Oil to ſwim on the <hi>top of other Liquors.</hi>— And ſo of <hi>David,</hi> 
+               <q>The Lord ſaid unto thee, Feed my people <hi>Iſrael,</hi>
+               </q> and thou ſhalt be a Captain over <hi>Iſrael,</hi> 2 <hi>Sam.</hi> 5.2. And for <hi>ſuch a Paſtor and Leader of the people</hi> the Elders of <hi>Iſrael</hi> acknowledg'd him. The ſeve<g ref="char:EOLhyphen"/>ral Tribes had their reſpective <hi>Heads and Chieftains,</hi> but the King was the <hi>Head of all thoſe Tribes, and their Heads too.</hi> And therefore ſaith St. <hi>Peter,</hi> "To the King, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>as Supreme,</hi> 1 <hi>Ep.</hi> 2.13. And, whoever <hi>teach otherwiſe, [Et Apoſtolorum doctrinae repugnant, &amp; Imperia turbant,]</hi> as <hi>Grotius well expreſſeth it,</hi> do both <hi>contradict the Apoſtles Doctrine, and diſturb Governments.</hi> Now 'tis the nature of the <hi>Supreme</hi> to admit of <hi>neither Superior nor Equal upon Earth.</hi>
+               <note n="‡" place="margin">
+                  <hi>Ea eſt ſummi conditio, us ni<g ref="char:EOLhyphen"/>hil aliud adae<g ref="char:EOLhyphen"/>quet, nedum ſu<g ref="char:EOLhyphen"/>peret.</hi> Tertull:</note> Thus St. <hi>Chryſoſtom ſpeaks of</hi> Theodoſius <hi>the Emperour</hi>
+               <note n="*" place="margin">Hom. 11. ad pop. Antioch. &amp; Hom. 20.</note>, [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] <q>As having <hi>none of like Honour;</hi> for a King, <hi>ſaith he,</hi> is the <hi>very top and head of all men upon Earth.</hi>
+               </q>—He is in the <hi>higheſt place,</hi> and <hi>higheſt power;</hi> and conſequently, all in his Dominions, <hi>Every ſoul of them</hi>
+               <note n="*" place="margin">Rom. 13.1, 2, 5.</note>, are oblig'd to be <hi>ſubject to him.</hi> None may preſume to <hi>judge or reſiſt him violently.</hi> There can be nothing juſtifiable on the Sub<g ref="char:EOLhyphen"/>jects part, but <hi>Obedience</hi> and <hi>Submiſſion.</hi>
+               <note n="‡" place="margin">
+                  <hi>Rogamus, Au<g ref="char:EOLhyphen"/>guſte, non pug<g ref="char:EOLhyphen"/>namus.-Aliter nec debeo, nec poſſum reſiſtere</hi> Ambroſ. Orat. cont. Auxent. &amp; Epiſt. ad Marcell.</note> The reſt muſt be referr'd to <hi>God alone,</hi> the <hi>only Ruler of Princes.</hi> For,</p>
+            <pb n="7" facs="tcp:101411:6"/>
+            <p> 
+               <hi>Secondly,</hi> It is <hi>by him that Kings reign:</hi> Their Power and Authority is derived from him, and his Miniſters and <hi>Vicegerents</hi> they are. 'Tis he that <hi>gives the Kingdom over Iſrael,</hi> even the <hi>Lord God of Iſrael.</hi> 
+               <q>There is no Power but of God; The Powers that be are ordained <hi>(or ordered)</hi> of God, <hi>Rom.</hi> 13.</q>
+               <note n="*" place="margin">
+                  <hi>Nos judicium Dei ſuſpicimus in Imperatori<g ref="char:EOLhyphen"/>bus, qui genti<g ref="char:EOLhyphen"/>bus illos prae<g ref="char:EOLhyphen"/>fecit, &amp;c.</hi> Ter<g ref="char:EOLhyphen"/>tull. Apologet.</note> He only hath the <hi>original power of life and death,</hi> and no one elſe can pretend to it but by virtue of <hi>his Commiſſion.</hi>—And then again, He in his Providence <hi>diſpoſeth of Kingdoms,</hi> both as to <hi>good and evil, ſhaking or ſettling, renting or uniting, leſſening or enlarging,</hi> the <hi>giving and taking away of Kings,</hi> either in his <hi>Wrath or Mercy; putting down one, and ſet<g ref="char:EOLhyphen"/>ting up another, &amp;c.</hi>
+               <note n="*" place="margin">
+                  <hi>Pſ.</hi> 105.7, 8.</note>—And <hi>Nebuchadnezzar,</hi> you read, was <hi>ſent out a grazing among the beaſts of the field, till he came to know and acknowledge This,</hi> 
+               <q>That the moſt High ruleth in the Kingdom of men,</q> and giveth it to whomſoever he will, <hi>Dan.</hi> 4.25. Thus much was owned by <hi>Julius Caeſar,</hi> in that excellent ſaying of his,
+<note place="margin">Suetonius.</note> 
+               <hi>[Reges plurimùm inter homines pollent, Deorum ipſi in poteſtate ſunt Reges.]</hi> 
+               <q>Kings have the <hi>chiefeſt power among men;</hi> but Kings themſelves are <hi>in the power of God.</hi>
+               </q> 
+               <hi>Horace</hi> elegantly varies it:
+<q>
+                  <l>[Regum timendorum in proprios greges,</l>
+                  <l>Reges in ipſos imperium eſt Jovis.]</l>
+               </q>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> Of all ſorts of <hi>Monarchy,</hi> that which is ſet<g ref="char:EOLhyphen"/>tled in a <hi>Lineal Deſcent and Succeſſion,</hi> is certainly the <hi>moſt eligible;</hi> and ſo God appointed the Kingdom over <hi>Iſrael,</hi> when he had <hi>caſt off the houſe of</hi> Saul,
+<q>
+                  <hi>To</hi> David <hi>and his Sons for ever.</hi>
+               </q> This tends moſt to the <hi>peace and quiet of Societies,</hi> when the Heir to the Crown is known among them: This <hi>prevents the feuds, animoſi<g ref="char:EOLhyphen"/>ties, and diſcords,</hi> which are almoſt unavoidable where the matter is put to vote among <hi>many Electors.</hi> And, in
+<pb n="8" facs="tcp:101411:7"/>
+               <hi>Hereditary Kingdoms,</hi> we ſay truly, the <hi>King never dies;</hi> the <hi>Sun never ſets in total darkneſs:</hi> but upon the de<g ref="char:EOLhyphen"/>ceaſe of any one <hi>Monarch,</hi> the <hi>next Heir is immediately ſeized of his Authority, and ſtands up forthwith in his place and ſtead.</hi> So <hi>Solomon</hi> ſpeaks of himſelf, 1 <hi>Kings</hi> 8.20. <q>The Lord hath performed his word that he ſpake, and <hi>I am riſen up in the room of</hi> David <hi>my Fa<g ref="char:EOLhyphen"/>ther,</hi> and ſet on the Throne of <hi>Iſrael,</hi> as the Lord promiſed.</q>—And ſo did <hi>Rehoboam</hi> his Son, in the <hi>room of</hi> Solomon <hi>his Father,</hi> and our <hi>Abijah in the Text,</hi> in the <hi>room of his Father</hi> Rehoboam. <q>[—<g ref="char:V">Ʋ</g>no avulſo, non deficit alter Aureus.—]</q> The Golden Tree of Monarchy thus ſends forth <hi>ſome freſh ſprout or other in the place of that which</hi> falleth off.</p>
+            <p>And there is no pretence from any man's <hi>Religion or Morals</hi> to be admitted of, as a <hi>bar on the one ſide,</hi> or <hi>excuſe on the other,</hi> from Loyal ſubmiſſions and ac<g ref="char:EOLhyphen"/>knowledgments to <hi>this orderly ſucceſſion.</hi> We muſt no more found <hi>Dominion,</hi> than we do <hi>Property,</hi> in <hi>ſupernatu<g ref="char:EOLhyphen"/>ral Grace or Piety.</hi> Chriſt, to be ſure, who <hi>proclaimed his Kingdom not to be of this world,</hi> [St. <hi>John</hi> 18.36.
+<note n="*" place="margin">
+                  <hi>Audite omnia Regna Terrena: Non impedio dominationem veſtram in hoc mundo:</hi> D. Au<g ref="char:EOLhyphen"/>guſtin in Loc. Tract. 105. in Evang: Johan:</note>] never intended that <hi>his Religion</hi> ſhould countenance any thing of <hi>Reſiſtance or Rebellion againſt the Rights of Princes.</hi>
+               <note n="‡" place="margin">
+                  <hi>Nunquam</hi> Al<g ref="char:EOLhyphen"/>biniani, <hi>nec</hi> Nigriani, <hi>vel</hi> Caſſiani <hi>inveniri potuerunt</hi> Chriſtiani.— <hi>Chriſtianus</hi> Nullius <hi>eſt Hoſtis, nedum</hi> Imperatoris, <hi>&amp;c.</hi> Tertull. ad Scapulam.</note> He came not with any intention to <hi>innovate in ſecular Governments,</hi> and hath obliged his Diſciples by the <hi>Doctrine of the Croſs,</hi> to take off all ſuſpicion from the Monarchs of the Earth of invading their Prerogatives by ſetting his Title on foot among them.—They pro<g ref="char:EOLhyphen"/>ceed
+<pb n="9" facs="tcp:101411:7"/>not therefore by <hi>his Rules and Precepts,</hi> who ſeek to <hi>decline ſufferings by any ſuch unlawful methods,</hi> as the interruption of a <hi>Lineal Succeſſion</hi> for the ſafe-guard of the Chriſtian Religion. And their <hi>Condemnation</hi> is juſt, who attempt <hi>ſo great an Evil, upon the pretence, or to the end, that Good may come thereof, Rom.</hi> 3.8.—I have often thought of <hi>what</hi> Eraſmus
+<note n="*" place="margin">Annotat. in St. Luc. 22.36.</note> 
+               <hi>ſaith on the point of Chriſtians Reſiſting by force of Arms, turning the Croſs into a Sword,</hi> &amp;c. <hi>[Mitre nulla haereſis pernicioſior, nulla blaſphemia ſceleratior, &amp;c.]</hi> 
+               <q>In my eſteem there is <hi>no hereſie more dangerous, no blaſphemy more wicked.</hi>— The <hi>precepts of Chriſt</hi> decrying it, his <hi>whole life</hi> gain<g ref="char:EOLhyphen"/>ſaying it, the <hi>Apoſtolical Doctrine</hi> oppoſing it, ſo many <hi>Millions of Martyrs,</hi> and the <hi>old Interpreters of Scripture</hi> all againſt it.</q>
+               <note n="‡" place="margin">
+                  <hi>Contra man ſuetudinem E<g ref="char:EOLhyphen"/>vangelicam. Victoria Evan<g ref="char:EOLhyphen"/>gelica in Tole<g ref="char:EOLhyphen"/>rantiâ ſita.</hi> Id. paraphr.</note> And here it may be remembred, that <hi>this learned man's worthy Paraphraſe was in a peculiar ac<g ref="char:EOLhyphen"/>count at the beginning of our Reformation:</hi> it being <hi>one of the Injunctions by K.</hi> Edward <hi>VI.</hi> 
+               <q>[<hi>That the Paraphraſis of</hi> Eraſmus <hi>in</hi> Engliſh <hi>upon the Goſpels, ſhould be ſet up in ſome convenient place in every Church,</hi> &amp;c.]</q>
+            </p>
+            <p>
+               <hi>Fourthly,</hi> We have a declaration here annexed of the <hi>inviolableneſs and unalterableneſs of this ſucceſſion in the Line of</hi> David, <hi>ſettled by a ſacred and ſolemn Covenant from God himſelf:</hi> 
+               <q>Even to him and his Sons by a Covenant of Salt.</q>—And, though God, according to his <hi>abſolute Dominion,</hi> and in the courſe of his <hi>Juſtice,</hi> as I ſaid, upon provocation given, made ſome <hi>abatements in the extent of this Government,</hi> by the renting of Ten Tribes from the reſt, or <hi>dark Intervals,</hi> by their Capti<g ref="char:EOLhyphen"/>vities; yet he <hi>ſecured a Principality to the laſt,</hi> that the <hi>Scepter ſhould not depart from</hi> Judah <hi>till</hi> Shiloh <hi>came</hi>
+               <note n="*" place="margin">Gen. 49.10.</note>; and over-ruled even the <hi>Luſts and ſins of men to ſerve his own all-wiſe and righteous purpoſes.</hi> But this is no apology at all for thoſe who have <hi>no expreſs Warrant from the
+<pb n="10" facs="tcp:101411:8"/>King of Kings to alledge.</hi> We are bound up to the ordi<g ref="char:EOLhyphen"/>nary <hi>Laws and Meaſures.</hi> If any men will enter into a <hi>Covenant or Aſſociation againſt their Allegiance to Princes,</hi> 'tis <hi>none of God's Covenant,</hi> nor is there any <hi>Divine Salt in it.</hi>
+            </p>
+            <p>'Tis the general <hi>compact and agreement of Society</hi> to be <hi>ſubject to Kings;</hi> and we have the <hi>Tie of Religion ſuperad<g ref="char:EOLhyphen"/>ded to that of our Natural Allegiance, to ſtrengthen it.</hi> On which account the <hi>Preacher</hi> leſſons us; <q>I counſel thee to keep the Kings Commandment,</q> and that in regard of the Oath of God, <hi>Eccleſ.</hi> 8.2.</p>
+            <p>Theſe now are the <hi>Four points contain'd in King</hi> Abi<g ref="char:EOLhyphen"/>jah<hi>'s Allegation;</hi> The <hi>King's Supremacy and Dominion over all his Subjects;</hi> The <hi>Divine Right of that Dominion and Supremacy;</hi> The <hi>Claim of Succeſſion to it in an Here<g ref="char:EOLhyphen"/>ditary Monarchy;</hi> And the <hi>
+                  <g ref="char:V">Ʋ</g>nalterableneſs of that claim in the Government of Iſrael;</hi> and, proportionably, in <hi>all like Governments,</hi> unleſs we will ſubvert or overturn the <hi>Fundamentals of their Conſtitution.</hi>
+            </p>
+            <p>And, as to <hi>all theſe particulars,</hi> he makes his appeal to them.</p>
+            <p n="1">I. As <hi>matters of common knowledge,</hi> points wherein no one could juſtly pretend ignorance. According to the vulgar <hi>Latin, [Num ignoratis?]</hi> ſaith he, <hi>Are you herein ignorant?</hi> or can you, with any modeſty, in this caſe <hi>plead ignorance?</hi> Theſe are matters obvious enough to every one that opens his eyes to ſee and underſtand. Theſe have been <hi>ſufficiently promulged and made known to you.</hi> If there be any ignorance here, 'tis of that ſort which we call <hi>groſs and affected; a willing, choſen, ſlothful, or wilful ignorance,</hi> which is no man's <hi>excuſe,</hi> but his <hi>con<g ref="char:EOLhyphen"/>demnation.</hi> And then,</p>
+            <p n="2">
+               <pb n="11" facs="tcp:101411:8"/> II. As <hi>matters fitting for Subjects, upon occaſion, to ac<g ref="char:EOLhyphen"/>knowledge,</hi> and teſtifie their due acknowledgment of, by their <hi>ready compliance to and with them.</hi> So <hi>Junius</hi> and <hi>Tremellius</hi> render it. <hi>[An non veſtrum erat agnoſcere?]</hi> 
+               <q>Was it not <hi>your part and duty to acknowledge this?</hi>
+               </q> And to <hi>that ſenſe we read it:</hi> 
+               <q>Ought ye not to know, or own it?</q>
+            </p>
+            <p>So at <hi>all times,</hi> but ſo more eſpecially upon the <hi>change of Governours,</hi> where the Government remains ſtill <hi>one and the ſame,</hi> immutable. 'Tis <hi>then proper,</hi> when the perſon of any King fails or dies, to recognize the Right of his immediate Succeſſor: For the <hi>ſupport of the Go<g ref="char:EOLhyphen"/>vernment,</hi> and the <hi>mutual encouragement each of other to an hearty ſubjection unto it,</hi> that all things may turn on their <hi>wonted hinges,</hi> and every one keep his <hi>place and ſtation,</hi> without confuſion or diſturbance, to the com<g ref="char:EOLhyphen"/>mon quiet and welfare. Particularly, that we may <hi>obſerve the wiſe man's injunction and fatherly admonition,</hi> 
+               <q>To fear the Lord and the King, and not to meddle with them that are given to change, <hi>Prov.</hi> 24.</q>
+            </p>
+            <p>But I will not lead you at preſent beyond the <hi>circum<g ref="char:EOLhyphen"/>ſtances of the Text:</hi> This knowledge and acknowledge<g ref="char:EOLhyphen"/>ment then <hi>King</hi> Abijah <hi>here ſuggeſts for ſuch weighty ends as theſe enſuing.</hi>
+            </p>
+            <p n="1">I. To <hi>daſh and diſcountenance all Inſurrections and Re<g ref="char:EOLhyphen"/>bellions againſt the King in ſucceſſion;</hi> like <hi>That of</hi> Jero<g ref="char:EOLhyphen"/>boam <hi>againſt his Leige-Lord</hi> Rehoboam, <hi>the Son of</hi> Solo<g ref="char:EOLhyphen"/>mon, <hi>and this King's Father.</hi> Of which <hi>he adds in the following words, ver.</hi> 6. <q>Yet <hi>Jeroboam,</hi> the Son of <hi>Ne<g ref="char:EOLhyphen"/>bat,</hi> the ſervant of <hi>Solomon</hi> the Son of <hi>David,</hi> is riſen up, and hath rebelled againſt his Lord.</q>
+               <note place="margin">[* <q>Out of <hi>E<g ref="char:EOLhyphen"/>phraim</hi> ruled <hi>a Rebellious Kingdom.</hi>
+                  </q> 
+                  <hi>Ecclus.</hi> 47.21.]</note> 
+               <hi>Of him we read</hi> 1 <hi>Kings</hi> 11.26. <q>
+                  <hi>Jeroboam</hi> the Son of <hi>Nebat,</hi> an <hi>Ephra<g ref="char:EOLhyphen"/>thite</hi>
+                  <pb n="12" facs="tcp:101411:9"/>of <hi>Zereda, Solomon</hi>'s ſervant, whoſe Mother's name was <hi>Zeruah,</hi> a widow-woman, even he lift up his hand againſt the King.</q>—He was one whom <hi>Solo<g ref="char:EOLhyphen"/>mon</hi> had advanced to a <hi>great place of Truſt and Honour,</hi> 
+               <q>making him ruler over all the charge of the houſe of <hi>Joſeph, ver.</hi> 28, <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p>And, though God in his <hi>wiſe and juſt Providence,</hi> as I have before in part intimated, <hi>did over-rule this man's ambition to bring his own deſigns to paſs,</hi> in the puniſhing of <hi>Iſrael</hi> by the rent of ten Tribes from the reſt, yet this was no more <hi>excuſe to his irregular luſt after Domi<g ref="char:EOLhyphen"/>nion,</hi> than <hi>the Jews might have alledged for bringing a<g ref="char:EOLhyphen"/>bout what God had before decreed, in the ſufferings of his beloved Son, the Saviour of the world;</hi> They, neverthe<g ref="char:EOLhyphen"/>leſs, <hi>by wicked hands did crucifie and ſlay him</hi>
+               <note n="*" place="margin">
+                  <hi>Acts</hi> 11.23.</note>; And ſo might <hi>Jeroboam, nevertheleſs, wickedly follow the tem<g ref="char:EOLhyphen"/>ptations of his own ombition or revenge.</hi> — But, let us make the <hi>beſt of his caſe.</hi> God Almighty, the <hi>abſolutely Supreme,</hi> the <hi>King of Kings, and Lord of Lords,</hi> ſeems to have <hi>commiſſion'd him in extraordinary,</hi> as an <hi>Executioner of his Vengeance,</hi> and raiſed him up for a <hi>ſcourge of his wrath,</hi> and ſo, not only to have given him a bare <hi>per<g ref="char:EOLhyphen"/>miſſion,</hi> but alſo a <hi>Right and Title to thoſe revolted Tribes, had he perſevered in obedience to him,</hi> 1 <hi>Kings</hi> 11.31, <hi>&amp;c.</hi> And, <hi>on the ſame account, he forbids</hi> Rehoboam, <hi>and the houſe of</hi> Judah <hi>and</hi> Benjamin <hi>adhering to him, to give the men of</hi> Iſrael <hi>battel at firſt, for their reduction,</hi> ch. 12.24. But, whatever <hi>abatements</hi> or <hi>allowances</hi> may be made in <hi>this ſingle caſe of Jeroboam,</hi> from the <hi>Divine Interpoſure;</hi> where <hi>That is wanting,</hi> there can be none, to be ſure, to juſtifie the <hi>Inſurrection and Rebellion of a Servant againſt his Maſter, and a leige and obliged Subject</hi> (as he was) <hi>againſt his undoubted Lord and Sovereign.</hi> As the <hi>ſacrifi<g ref="char:EOLhyphen"/>cing of Children to God</hi> is not any whit the leſs <hi>Murther
+<pb n="13" facs="tcp:101411:9"/>now,</hi> becauſe <hi>Abraham once had a diſpenſation in the caſe,</hi> and a <hi>command from God to offer up his Son.</hi> King <hi>Abijah</hi> fixeth his charge upon <hi>Jeroboam's known obligations as a ſubject, far enough from any ordinary title to the Crown.</hi> 
+               <q>Yet <hi>Jeroboam</hi> the Son of <hi>Nebat,</hi> the <hi>Servant of</hi> Solo<g ref="char:EOLhyphen"/>mon <hi>the Son of David,</hi> is riſen up, and hath rebelled againſt his Lord.— And <hi>then,</hi>
+               </q>
+            </p>
+            <p n="2">II. To <hi>deter others from ſiding with, or joyning them<g ref="char:EOLhyphen"/>ſelves unto Seditious and Factious Leaders.</hi> So it <hi>follows, ver.</hi> 7. <q>And there are gathered unto him vain men, the children of <hi>Belial,</hi> and have ſtrengthened themſelves againſt <hi>Rehoboam</hi> the Son of <hi>Solomon,</hi> when <hi>Rehoboam</hi> was young and tender-hearted, and could not withſtand them.</q>
+            </p>
+            <p>Obſerve, I beſeech you, the <hi>Character he gives of thoſe that</hi> Aſſociated <hi>and combin'd together in this Inſurrection and Rebellion;</hi> the <hi>Party that liſted themſelves under this new Head.</hi> 
+               <q>There are gathered unto him vain men, the children of <hi>Belial:</hi>
+               </q> That is, <hi>fooliſh</hi> and <hi>wicked men,</hi> who are ready, upon any pretext, to <hi>throw off the yoke of lawful Government.</hi> This is the <hi>proper name of Rebels.</hi>
+               <note place="margin">[* <hi>Sceleſtarum partium Socii, aut plauſores.</hi> Tert. Apolog.</note> And ſo you find it noted at the very <hi>beginning of their Kingly Government,</hi> upon the <hi>promotion of Saul,</hi> when the peo<g ref="char:EOLhyphen"/>ple gave their general ſhout, and ſaid, <hi>God ſave the King,</hi> 1 <hi>Sam.</hi> 10. <q>There went with him, <hi>ſaith the Text,</hi> a band of men whoſe hearts God had touched, <hi>ver.</hi> 26.</q> Where <hi>God toucheth mens hearts,</hi> you ſee, they are <hi>inclin'd to Loyalty.</hi> But then it follows, <hi>ver.</hi> 27. <q>But the chil<g ref="char:EOLhyphen"/>dren of <hi>Belial</hi> ſaid, How ſhall this man ſave us? and they deſpiſed him, and brought him no preſents.</q>— So here again, <hi>There are gathered unto him vain men, the Children of</hi> Belial. And if the <hi>Apoſtle's gloſs on the phraſe be good,</hi> theſe enemies to rightful Powers, theſe King<g ref="char:EOLhyphen"/>deſpiſers, are the <hi>Children of the Devil;</hi> for ſo he ſpeaks
+<pb n="14" facs="tcp:101411:10"/>of <hi>Belial,</hi> as the <hi>grand enemy in oppoſition to</hi> Chriſt, 2 <hi>Cor.</hi> 6.15. "What concord hath <hi>Chriſt</hi> with <hi>Belial?</hi> And <hi>then,</hi> What fellowſhip or communion between the <hi>Diſciples of Chriſt,</hi> and the <hi>Children of Belial?</hi> The <hi>firſt time,</hi> I think, we meet with the expreſſion, is <hi>Deut.</hi> 13.13. <q>Certain men, the children of <hi>Belial,</hi> are gone out from among you, and have withdrawn the inhabitants of their City, ſaying, Let us go and ſerve other Gods which we have not known.</q> The <hi>Margin</hi> reads it, <hi>Naughty men.</hi> Such they are with a witneſs, in the <hi>firſt place,</hi> who <hi>ſeduce us from the Lord our God, to a Falſe and Idolatrous Religion and Worſhip;</hi> and ſuch, in the <hi>next,</hi> who <hi>draw others aſide from their lawful King.</hi> Where<g ref="char:EOLhyphen"/>ever you read of <hi>theſe children of Belial in Scripture,</hi> you will find they are the <hi>very worſt of men;</hi> and ſo we are to <hi>look upon them that revile and oppoſe Government,</hi> whatever <hi>holy appearances or diſguiſes</hi> they come in.
+<note n="*" place="margin">
+                  <hi>Peſſimus quiſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> aſperri<g ref="char:EOLhyphen"/>mè Rectorem patitur.</hi> Saluſt.</note>
+            </p>
+            <p>Well, this is their <hi>Character,</hi> how many, and of what name or eminence ſoever otherwiſe. <q>There are gathe<g ref="char:EOLhyphen"/>red unto him vain men, the children of <hi>Belial.</hi>
+               </q> 
+               <hi>Of whom he adds,</hi> 
+               <q>And have ſtrengthened themſelves againſt <hi>Rehoboam</hi> the Son of <hi>Solomon.</hi>
+               </q> He keeps ſtill the <hi>Em<g ref="char:EOLhyphen"/>phaſis on the Succeſſion.</hi> So before, in <hi>Jeroboam:</hi> 
+               <q>The ſer<g ref="char:EOLhyphen"/>vant, <hi>ſaith he,</hi> of <hi>Solomon</hi> the Son of <hi>David.</hi>
+               </q> And <hi>here again,</hi> "Againſt <hi>Rehoboam</hi> the Son of <hi>Solomon.</hi> As <hi>he himſelf,</hi> in like manner, was the <hi>Son of</hi> Rehoboam.— And obſerve the <hi>juncture of time they laid hold on for their purpoſe.</hi> 
+               <q>When <hi>Rehoboam</hi> was young and tender-hear<g ref="char:EOLhyphen"/>ted, and could not withſtand them.</q> They took the opportunity of the <hi>King's weakneſs,</hi> 
+               <q>When he was young and tender-hearted;</q> which ſome, with great probability, refer to the <hi>diſpoſition of his Mind, rather than Years, [juvenis animo, non aetate,]</hi> for he was of <hi>age conſiderable enough</hi> when he came to the Crown.
+<note n="*" place="margin">41 Years old. 1 <hi>Kings</hi> 14.21.</note> But he
+<pb n="15" facs="tcp:101411:10"/>was of <hi>too eaſie impreſſion to the counſel of the raſh young men, againſt the judgment of his ſager Statiſts, in anſwe<g ref="char:EOLhyphen"/>ring of the people roughly,</hi> and ſo diſobliging them, when they came to tender their Loyalty to him. And this is that which ſeems reflected on here, by the expreſſion of his being <hi>young and tender-hearted;</hi> a <hi>Novice only in the art of Government.</hi> This <hi>teneritudo cordis</hi> is elſewhere uſed for <hi>faintneſs of heart, Levit.</hi> 26.36. Whatever <hi>elſe</hi> there may be included in it, I will not ſtay to examine. Theſe children of <hi>Belial,</hi> you ſee, were very watchful to lay hold on the <hi>nick of opportunity,</hi> "When their King <hi>could not withſtand them.</hi>—And that is the only <hi>meaſure of ſome mens Loyalty; [quam diu deſunt vires]</hi> until they have <hi>power and ſtrength enough to reſiſt and rebell with the hopes of ſucceſs.</hi> So they <hi>blaſpheme the primitive Chri<g ref="char:EOLhyphen"/>ſtians, Confeſſors, and Martyrs patience under all their ſufferings and perſecutions;</hi> and repreſent them to the world as <hi>Rebels at heart,</hi> but ſuch, as <hi>wanted ſtrength for the execution;</hi> ſuch, who ſubmitted <hi>only becauſe they could not help it.</hi>
+               <note n="*" place="margin">
+                  <hi>Bellarmine l:</hi> 3. <hi>de Pontif.</hi> c. 7 <hi>Buchanan de jure Reg:</hi> Author of the <hi>Life of Julian,</hi> &amp;c.</note> 
+               <hi>[Quia deerant illis vires.]</hi> But the <hi>Fathers, in their Apologies for them, abhor the imputati<g ref="char:EOLhyphen"/>on,</hi> &amp;c.</p>
+            <p>For <hi>theſe ends</hi> now we are to <hi>know and acknowledge the principles of Loyaliy before-mentioned,</hi> that we may noi<g ref="char:EOLhyphen"/>ther <hi>riſe up and rebel againſt our Leige-Lord, with</hi> Jero<g ref="char:EOLhyphen"/>boam; nor <hi>gather our ſelves to any ſuch Head with vain men, the children of</hi> Belial, whenever <hi>opportunity</hi> or the <hi>weakneſs of a Prince</hi> may tempt us thereunto.</p>
+            <p>And the better to <hi>fortifie all this,</hi> it is to be conſide<g ref="char:EOLhyphen"/>red further, what he <hi>goes on to ſuggeſt.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> That the King in ſucceſſion was not only <hi>their Sovereign Lord,</hi> but <hi>God Almighty's Vicegerent,</hi> and ſo, in
+<pb n="16" facs="tcp:101411:11"/>reſiſting him, they did, by a juſt interpretation, <hi>withſtand God himſelf,</hi> and ſeek to <hi>caſt off the Kingdom of God, ver.</hi> 8. <q>And now ye think to withſtand the Kingdom of the Lord in the hand of the Sons of <hi>David.</hi>
+               </q> He owns <hi>God for the Fountain of Royalty,</hi> and the <hi>Kings ſucceſſively only for his Miniſters and Deputies.</hi>
+               <note n="*" place="margin">So the <hi>Throne of Solomon</hi> is ſaid to be the <hi>Throne of the Lord,</hi> [1 <hi>Kings</hi> 2: 12. with 1 <hi>Chron.</hi> 29.23. And 1 <hi>Kings</hi> 10.9. with 2 <hi>Chron</hi> 9.8.]</note> And,</p>
+            <p>
+               <hi>Secondly,</hi> What <hi>kind of people the multitude of that rebellious Camp was made up of;</hi> So it follows: <q>[And ye be a great multitude.]</q> That is confeſs'd: But of <hi>what ſort of men?</hi> That deſerves our ſpecial notice. <q>And there are with you golden Calves, which <hi>Jeroboam</hi> made you for Gods.</q> The <hi>Revolters from their King</hi> became at the ſame time <hi>Apoſtates from the ſervice of the true God to ſet up golden Calves in his ſtead.</hi> That was <hi>Jeroboam's policy:</hi> He conſider'd wifely, that had the people kept to their <hi>former eſtabliſhed Worſhip at</hi> Jeruſa<g ref="char:EOLhyphen"/>lem, <hi>they would ſoon have return'd to their former Loyal<g ref="char:EOLhyphen"/>ty.</hi> 1 <hi>Kings</hi> 12.26, <hi>&amp;c.</hi> 
+               <q>And <hi>Jeroboam</hi> ſaid in his heart, Now ſhall the Kingdom return to the houſe of <hi>David,</hi> if this people go up to do ſacrifice in the houſe of the Lord at <hi>Jeruſalem: Then ſhall the heart of this people turn again to their Lord, even unto</hi> Rehoboam <hi>King of</hi> Judah, and they ſhall kill me, and go again to <hi>Rehoboam</hi> King of <hi>Judah.</hi> Whereupon the King took counſel, and made two Calves of Gold;</q> (pretending, for a <hi>blind only,</hi> to <hi>eaſe them of their burthen,</hi> and to <hi>con<g ref="char:EOLhyphen"/>ſult their advantage;</hi> as it follows,) <q>And ſaid unto them, It is too much for you to go up to <hi>Jeruſalem:</hi> Behold thy Gods, O <hi>Iſrael,</hi> which brought thee up out of the Land of <hi>Egypt!</hi> And he ſet the one in <hi>Bethel,</hi> and the other put he in <hi>Dan:</hi> And this thing became a ſin,</q> 
+               <hi>ſaith the Text,</hi> a <hi>moſt provoking ſin againſt God Almighty,</hi> and turn'd to their <hi>ruine</hi> and <hi>deſtruction.</hi>
+               <pb n="17" facs="tcp:101411:11"/>But whatever he pretended to make the people, the ſecret was, <hi>leſt returning to the true Religion, they ſhould alſo return to their true Allegiance to the King of</hi> Judah. Thus you ſee, in the <hi>firſt place,</hi> that theſe revolters from their Sovereing, as I ſaid, were <hi>Apoſtates from the eſtabli<g ref="char:EOLhyphen"/>ſhed Worſhip of God, unto Idolatry,</hi> the worſhipping of <hi>Images and Imaginations of their own.</hi> And <hi>then,</hi> the at<g ref="char:EOLhyphen"/>tendant or conſequence of this was the <hi>diſcarding of the legitimate and rightly ordained Prieſts of God, with the ſolemn Feaſts appointed,</hi> and the <hi>ſetting up of others in their room,</hi> even of <hi>the baſeſt of the people, ver.</hi> 9. <q>Have you not caſt out the Prieſts of the Lord, the Sons of <hi>Aaron</hi> and the <hi>Levites,</hi> and have made you Prieſts after the manner of the Nations of other Lands?</q> 
+               <hi>&amp;c.</hi> Of which you may read <hi>more at large in the ſtory.</hi> Of <hi>ſuch as theſe</hi> the multitude of the Rebellious Army con<g ref="char:EOLhyphen"/>ſiſted; even ſuch, as had <hi>forſaken the eſtabliſhed worſhip of the true God,</hi> and <hi>caſt off their Obedience and Reverence to his appointed Miniſters,</hi> the Prieſts and Levites.</p>
+            <p>In oppoſition to whom we may find, <hi>Thirdly,</hi> the deſcription and account given of the <hi>Loyal Party, ver.</hi> 10. <hi>&amp;c.</hi> "But as for us, the Lord is our God, and we have not forſaken him. Namely, to <hi>reform his Worſhip by the abolition of it, and bow down to golden Calves in his ſtead.</hi> And, as we have the <hi>true God,</hi> and his <hi>appointed Worſhip and Ceremonies,</hi> ſo we have <hi>his ordained Prieſts too, offi<g ref="char:EOLhyphen"/>ciating.</hi> 
+               <q>And the Prieſts which miniſter unto the Lord, are the Sons of <hi>Aaron,</hi> and the Levites wait upon their buſineſs; and they burn to the Lord every morning and every evening burn Sacrifices &amp; ſweet Incenſe, <hi>&amp;c.</hi> For we keep the charge of the Lord our God, but ye have ſorſaken him.</q>
+            </p>
+            <pb n="18" facs="tcp:101411:12"/>
+            <p> Hereupon therefore, from all theſe premiſes, King <hi>Abijah takes heart and courage,</hi> for the <hi>animating of his Subjects,</hi> and the <hi>reflecting dread and terror on the multi<g ref="char:EOLhyphen"/>tude of his and their Enemies, ver.</hi> 12. <q>And behold God himſelf is with us for our Captain, and his Prieſts with ſounding Trumpets to cry alarm againſt you.</q>—In the <hi>name of our God we ſet up our Standard,</hi> and <hi>on him we build our confidenee;</hi> we <hi>keep faſt to him,</hi> and doubt not but he will <hi>keep to us while we ſo do,</hi> to protect and defend us; we <hi>adhere to his Prieſts,</hi> and they <hi>ſound the Trumpets orderly and religiouſly under the great Lord of Hoſts.</hi> But as for <hi>you,</hi> how many ſoever you are, or how great ſoever the <hi>numbers you glory in,</hi> take heed, leſt you be found, in the iſſue, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to <hi>fight againſt God, who will be too hard for you.</hi> So he ends; <q>O children of <hi>Iſrael,</hi> fight ye not againſt the Lord God of your Fathers, for you ſhall not proſper.</q>—And the <hi>ſucceſs was accordingly,</hi> if you look on to the <hi>cloſe of the chapter,</hi> for no leſs than <hi>Five hundred thouſand of their Eight hundred thouſand choſen men were cut off and deſtroy<g ref="char:EOLhyphen"/>ed.</hi> And the Text gives us <hi>this account of it, ver.</hi> 18. <q>Thus the children of <hi>Iſrael</hi> were brought under at this time, and the children of <hi>Judah</hi> prevailed, becauſe they relied upon the Lord God of their Fathers. Now, though the <hi>Argument of Providence and Succeſs by it ſelf be weak and fallacious,</hi>
+               </q> (how much uſe ſoever <hi>ſome</hi> have made of it) yet, when in conjunction with a <hi>good Cauſe, and back'd with a Divine Teſtimony,</hi> (as here it is) it hath <hi>weight and moment in it.</hi>
+            </p>
+            <p>Thus have I haſtened through <hi>the Text and its appen<g ref="char:EOLhyphen"/>dant circumſtances,</hi> and we have found the <hi>whole Speech proper and appoſite</hi> (as <hi>Grotius</hi> notes) to <hi>terrifie his Ene<g ref="char:EOLhyphen"/>mies, and hearten his own Subjects;</hi> wherein he alledgeth
+<pb n="19" facs="tcp:101411:12"/>principally, for himſelf, the <hi>Right of a Legitimate Suc<g ref="char:EOLhyphen"/>ceſſion,</hi> and that the <hi>True Religion and Regular Clergy were on his ſide.</hi>
+            </p>
+            <p>You have prevented me, I ſuppoſe, for the <hi>main of the Application to be made of it,</hi> ſo far as <hi>we are concern'd;</hi> for we are not, God be thanked, in any <hi>ſuch ſtate of war,</hi> and I hope, through his Bleſſing, <hi>not like to be;</hi> nor is there any caſe ſo exactly parallel, but will admit of ſome <hi>diſſimilitude:</hi> 'tis enough, if certain <hi>general proportions and analogies</hi> reach us.</p>
+            <p>You all know, or <hi>ought to know,</hi> I am ſure, <q>That this Kingdom of ours is an <hi>undoubted Monarchy, under an Imperial Head as Supreme Governour;</hi> to whom, next unto God, all ſorts of men, of whatever Rank or Quality, Degree or Condition, are bound to pay all <hi>Homage, Fealty, and Obedience.</hi>
+               </q> And it hath been <hi>De<g ref="char:EOLhyphen"/>clared by all the Authority of the Land,</hi> 
+               <q>That by the <hi>Fundamental Laws of this Kingdom,</hi> neither the <hi>Peers of the Realm,</hi> nor the <hi>Commons,</hi> nor <hi>both together in Parlia<g ref="char:EOLhyphen"/>ment,</hi> nor the <hi>People collectively or repreſentatively,</hi> nor <hi>any other perſon or perſons whatſoever,</hi> ever <hi>had, hath, or ought to have, any coercive Power over the perſons of the Kings of this Realm.</hi>
+               </q> And, <q>That it is not lawful upon <hi>any pretence whatſoever</hi> to take Arms <hi>againſt the King, or thoſe commiſſionated by him.</hi>
+               </q> And, <q>That this Im<g ref="char:EOLhyphen"/>perial Monarchy is <hi>Hereditary alſo,</hi> ſuch as <hi>defcends by a line of Succeſſion from one to another;</hi> And accordingly we are obliged by Oath to the <hi>King's Sacred Majeſty for the time being,</hi> and to <hi>His Heirs and Lawful Succeſſors.</hi>
+               </q> And <hi>This,</hi> if not by ſo <hi>immediate a Covenant from God as the Iſraelites,</hi> yet by as <hi>unviolable Ties as the Conſtitution of the Government, or our own Conſciences, can bring us under.</hi>
+            </p>
+            <p>Now, ſince it hath pleaſed Almighty God to call to
+<pb n="20" facs="tcp:101411:13"/>himſelf our late moſt Gracious Sovereign of Bleſſed Me<g ref="char:EOLhyphen"/>mory, King CHARLES II. under whoſe mild and merci<g ref="char:EOLhyphen"/>ful Reign we have enjoy'd for many years together <hi>infi<g ref="char:EOLhyphen"/>nite Benefits and Bleſſings,</hi> had we but had more thank<g ref="char:EOLhyphen"/>ful hearts to acknowledg the ſame: Since, I ſay, it hath pleaſed Him, whom all muſt obey, to <hi>remand this emi<g ref="char:EOLhyphen"/>nent Servant and Deputy of His,</hi> and <hi>advance him to a more Glorious Kingdom,</hi> as we have reaſon to judge from <hi>his exemplary and Chriſtian Death,</hi> as well as <hi>Good and Religious Government over us;</hi> the Imperial Crown and Scepter <hi>forthwith are devolved,</hi> beyond all diſpute or queſtion, <hi>upon the High and Mighty Prince</hi> JAMES <hi>II.</hi> as our <hi>only Lawful, Lineal, and Rightful Leige Lord and King,</hi> as you have heard by <hi>public Proclamation,</hi> received with the univerſal joy, contentment and applauſe of all good peo<g ref="char:EOLhyphen"/>ple. And we ſhall <hi>not need to fear,</hi> I preſume, any ambi<g ref="char:EOLhyphen"/>tious or treacherous <hi>Jeroboam,</hi> nor any number of <hi>vain men, Children of Belial, to gather themſelves in Tumults under any ſuch Head,</hi> to oppoſe his juſt Rights, and therein <hi>their own, as well as the common Duty and Happineſs.</hi>
+            </p>
+            <p>O, what a <hi>wretched and diſconſolate Eſtate</hi> had we now been in, if we had been left, upon this ſad Providence, as our ſins deſerved, <hi>like Sheep without a Shepherd,</hi> ha<g ref="char:EOLhyphen"/>ving none to go in and out before us! In what a <hi>divi<g ref="char:EOLhyphen"/>ded and bleeding condition</hi> had we been, if the <hi>blind and furious Zeal of ſome men had prevailed,</hi> to have caſt out the undoubted Heir of the Crown from his <hi>Birthright and Inheritance!</hi>
+            </p>
+            <p>How much have we to <hi>bleſs God for,</hi> that we have yet <hi>a King of our own,</hi> and not a <hi>Stranger!</hi> One that is well acquainted with and reconciled to our <hi>Laws</hi> and <hi>Cuſtoms</hi>
+               <note n="*" place="margin">
+                  <hi>Ad concilium de Repub. dan<g ref="char:EOLhyphen"/>dum caput eſt noſſe Rempubli<g ref="char:EOLhyphen"/>cam. Cicero</hi> 2. 4e Orat.</note>! One that hath often ventured his <hi>deareſt Life and Blood in the Quarrels of his Countrey,</hi> and teſtified his readineſs on all occaſions to do us good! A Prince of
+<pb n="21" facs="tcp:101411:13"/>no leſs <hi>Heroical Virtues,</hi> than <hi>Noble Extraction</hi>
+               <note n="*" place="margin">Eccleſ: 10.17. <hi>Fortes creantur Fortibus, &amp; b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>nis, &amp;c.</hi> Horat. [From the <hi>firſt Britiſh Kings,</hi> the CXL <hi>Mo<g ref="char:EOLhyphen"/>narch;</hi> from the <hi>Scottiſh,</hi> CX; from the <hi>Saxon</hi> XLVII; from the <hi>Nor<g ref="char:EOLhyphen"/>man Line,</hi> XXVII.]</note>! The <hi>Dutiful Son of our Martyr'd Sovereign, King</hi> CHARLES <hi>I.</hi> The <hi>Loving and Faithful Brother of our Indulgent Sovereign, King</hi> CHARLES <hi>II.!</hi> Wonderfully <hi>preſerved, together with them, during our unnatural Wars,</hi> and <hi>abroad in Ex<g ref="char:EOLhyphen"/>ile;</hi> and <hi>as wonderfully Return'd, together with them, into theſe Kingdoms,</hi> and <hi>kept alive to this day,</hi> amidſt many perils and dangers, for our defence and comfort! A KING, whom the <hi>Church and State of Scotland</hi> found great reaſon to praiſe God for, when our peeviſh diſcontents &amp; jealouſies forc'd him out from hence, by the Providence of God to ſettle affairs there, to a general ſatisfaction
+<note n="*" place="margin">See a Letter, ſubſcribed by <hi>ſeven Biſhops there,</hi> to the <hi>Archbiſhop of Cant.</hi> from <hi>Edinburgh, March</hi> 9. 1682.</note>! A KING, that hath given us <hi>viſible pledges of his regard to the Chriſtian and Proteſtant Religion by the education of his Children in it,</hi> and the <hi>beſtowing his two eldeſt Daughters in Marriage unto two Illuſtrious Princes of that Belief and Denomination!</hi> A KING, who, notwithſtanding all the <hi>Indignities and Affronts</hi> which the rudeneſs, ignorance, and malice of ſome men have put upon him, and <hi>Li<g ref="char:EOLhyphen"/>bellous Defamations</hi> wherewith they have ſought to blac<g ref="char:EOLhyphen"/>ken him, yet <hi>begins his</hi> Reign <hi>with the moſt obliging and endearing aſſurances of his hearty affection unto, and care and concern for all his People;</hi> and in particular, as of their <hi>juſt Rights, Properties and Liberties,</hi> ſo of that <hi>moſt ex<g ref="char:EOLhyphen"/>cellent, pure, and Reformed Religion which is by Law Eſta<g ref="char:EOLhyphen"/>bliſhed,</hi> more dear to pious and devout Souls, than their <hi>Eſtates or Lives!</hi>
+            </p>
+            <p>I cannot do you a more acceptable and beneficial Ser<g ref="char:EOLhyphen"/>vice, <hi>than by reading over the Gracious Expreſſions which dropt from His Royal Mouth at his very firſt appearing be<g ref="char:EOLhyphen"/>fore his Privy-Council,</hi> and leave you to <hi>comfort your ſelves and one another with them;</hi> and raiſe up your hearts by the contemplation of <hi>ſo much and ſo ſurpriſing a Good<g ref="char:EOLhyphen"/>neſs,</hi> to <hi>bleſs God moſt affectionately for him,</hi> and <hi>prepare
+<pb n="22" facs="tcp:101411:14"/>to return at leaſt Love and Good-will for his Grace and Clemency,</hi> for that is the <hi>loweſt meaſure of Gratitude;</hi> that is <hi>no more than what Heathens conclude abſolutely juſt and neceſſary,</hi> to <hi>love thoſe who love them, and to do Good to thoſe from whom they receive Kindneſs.</hi> Paſs we on therefore from the <hi>Speech of one</hi> King <hi>in the Text,</hi> to the <hi>Speech of another,</hi> &amp;c. [Here was inſerted <hi>The Account of what His Majeſty ſaid at his firſt coming to Council</hi>
+               <note place="margin">[* For the ſake of <hi>thoſe who have not ſeen or heard it,</hi> I have <hi>tranſcri<g ref="char:EOLhyphen"/>bed &amp; annex'd it at the end.</hi>]</note>, and afterwards <hi>order'd to be made public.</hi>]</p>
+            <p>I will end all by putting you in mind of the <hi>Prophet</hi> Samuel<hi>'s Good and Right way to a Nations ſettlement and happineſs,</hi>
+               <note place="margin">1 <hi>Sam:</hi> 12.23, <hi>&amp;c.</hi>
+               </note> which, after all, is the <hi>only courſe we can have any ſecurity in,</hi> amidſt all the <hi>chances and uncertainties of this preſent world,</hi> wherein the Lives of the <hi>Beſt of Prin<g ref="char:EOLhyphen"/>ces,</hi> as well as <hi>other men,</hi> are liable to the ſtroke of <hi>Death and Violence.</hi> 
+               <q>Only fear the Lord, and ſerve him in truth, and with all your heart: For conſider how great things he hath done for you. But, if ye ſhall ſtill do wickedly, ye ſhall be deſtroyed, both ye and your King.</q>
+            </p>
+            <p>Now let us pray, <hi>as the Church very ſeaſonably inſtructs us in the Collect for the day.</hi>
+            </p>
+            <p>
+               <q>O Lord,
+<note place="margin">
+                     <hi>Coll.</hi> for <hi>Septu<g ref="char:EOLhyphen"/>ageſima.</hi>
+                  </note> we beſeech thee favourably to hear the Prayers of thy People, that we, who are <hi>juſtly puniſhed for our offences,</hi> may be <hi>mercifully delivered by thy Goodneſs,</hi> for the Glory of thy Name, through Jeſus Chriſt our Saviour, who liveth and reigneth with Thee, and the Holy Ghoſt, ever one God, world with<g ref="char:EOLhyphen"/>out end. <hi>Amen.</hi>
+               </q>
+            </p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="speech">
+            <pb n="23" facs="tcp:101411:14"/>
+            <head>An Account of what His Majeſty ſaid at His firſt coming to Council.</head>
+            <head type="sub">His Majeſty, at His firſt ſitting in His Privy-Council, was graciouſly pleaſed to expreſs Himſelf <hi>in this manner.</hi>
+            </head>
+            <opener>
+               <salute>My Lords,</salute>
+            </opener>
+            <q>
+               <p>
+                  <hi>BEfore I enter upon any other buſineſs, I think fit to ſay ſomething to You. Since it hath pleaſed Almighty God to place me in this ſtation, and I am now to ſucceed ſo Good and Gracious a King, as well as ſo very Kind a Brother; I think it fit to</hi> Declare to you, <hi>That I will endeavour to</hi> follow His Example, <hi>and moſt eſpecially in that of His great</hi> Clemency and Tenderneſs to his People. <hi>I have been reported to be a Man for</hi> Arbitrary Power, <hi>but that is</hi> not the only ſtory has been made of me.</p>
+               <p>
+                  <hi>And I ſhall make it my endeavours to</hi> pre<g ref="char:EOLhyphen"/>ſerve this Government both in Church and State, <hi>as it is now</hi> by Law Eſtabliſhed.</p>
+               <pb n="24" facs="tcp:101411:15"/>
+               <p> 
+                  <hi>I know, the</hi> Principles of the Church of <hi>England</hi> are for Monarchy, <hi>and the</hi> Mem<g ref="char:EOLhyphen"/>bers of it have ſhewed themſelves Good and Loyal Subjects; <hi>Therefore I ſhall</hi> always take care to Defend and Support it.</p>
+               <p>
+                  <hi>I know too, that the</hi> Laws of <hi>England</hi> are ſufficient to make the King as Great a Mo<g ref="char:EOLhyphen"/>narch as I can wiſh; <hi>And, as I ſhall never depart from the</hi> Juſt Rights and Prerogative of the Crown, <hi>ſo I ſhall never invade</hi> any mans Property.</p>
+               <p>
+                  <hi>I have often heretofore</hi> ventured my Life in Defence of this Nation; <hi>and I ſhall</hi> ſtill go as far as any man in preſerving it in all its Juſt Rights and Liberties.</p>
+            </q>
+            <p>[Whereupon the Lords of the Council were humble Suiters to His Majeſty, <hi>That theſe His Gracious Expreſſions might be made publick,</hi> which <hi>His Majeſty did order accor<g ref="char:EOLhyphen"/>dingly.</hi>]</p>
+            <pb n="25" facs="tcp:101411:15"/>
+            <p> And this is no more than <hi>what His Majeſty ſeveral times before had given aſſurance of;</hi> particularly, <hi>when the <g ref="char:V">Ʋ</g>niverſity of</hi> Cambridge <hi>waited upon His (then) Royal Highneſs at</hi> Newmarket, <hi>to welcom his Return to</hi> Eng<g ref="char:EOLhyphen"/>land, <hi>in</hi> March 1682. To whom, after <hi>Thanks for their kind expreſſions,</hi> He <hi>thus anſwer'd,</hi> 
+               <q>That He was glad of this, and all other occaſions to declare, That <hi>He would ever ſtand by the Church of</hi> England <hi>as now Eſta<g ref="char:EOLhyphen"/>bliſhed,</hi> and <hi>countenance the Members of it,</hi> as having ſeen by experience, <hi>that They are the beſt Supporters of the Crown;</hi> And that He would uſe his Endeavours and Intereſt for the <hi>Preſervation of the King's Perſon, and the Government in the State,</hi> and the <hi>Church of</hi> England <hi>as now Eſtabliſhed by Law.</hi>
+               </q>
+            </p>
+            <q>
+               <l>O Lord Save the <hi>KING;</hi>
+               </l>
+               <l>And mercifully hear us when we call upon thee.</l>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:101411:16"/>
+            <head>Books <hi>Printed for</hi> Charles Brome.</head>
+            <list>
+               <item>DR. <hi>Comber</hi>'s Paraphraſe on the Common Prayer, <hi>in Folio.</hi>
+               </item>
+               <item>The Fathers Legacy to his Friends, containing the whole Duty of Man.</item>
+               <item>Dr. <hi>Du Moulin</hi>'s Week of Prayers.</item>
+               <item>Precepts and Practical Rules for a truly Chriſtian Life.</item>
+               <item>The Reformed Monaſtery: or, The Love of Jeſus.</item>
+               <item>
+                  <hi>Montluck</hi>'s Commentaries, <hi>Fol.</hi>
+               </item>
+               <item>Mr. <hi>Simpſon</hi>'s Compendium of Muſick.</item>
+               <item>Dr. <hi>Comber</hi>'s Advice to <hi>Roman Catholicks.</hi>
+               </item>
+               <item>Bp. <hi>Lloyd</hi>'s ſeveral Sermons and Tracts in Defence of the Church.</item>
+               <item>Bp. <hi>Sprat</hi>'s Four Sermons.</item>
+               <item>Dr. <hi>Kenn</hi>'s Devotions, <hi>in Twelves.</hi>
+               </item>
+               <item>All Mr. <hi>L'Eſtrange</hi>'s Tracts, <hi>in Quarto.</hi>
+               </item>
+               <item>—His Hiſtory of the Plot, <hi>Fol.</hi>
+               </item>
+               <item>Guide to Heaven, Two Parts.</item>
+               <item>Crums of Comfort, <hi>Twenty-fours.</hi>
+               </item>
+               <item>The Exact Conſtable.</item>
+               <item>Dr. <hi>Ford</hi>'s Sermons on the Man whoſe Legs and Arms rotted off.</item>
+               <item>
+                  <hi>Brome</hi>'s Songs and Poems.</item>
+               <item>—His <hi>Horace,</hi> with others.</item>
+               <item>Lord <hi>Caſtlehaven</hi>'s Memoires compleat.</item>
+               <item>Vulgar Errors in Divinity.</item>
+               <item>Viſions of the Reformation and Purgatory.</item>
+               <item>Bp. <hi>Lloyd</hi>'s Church Hiſtory.</item>
+               <item>Bp. of <hi>Winton</hi>'s Tracts.</item>
+               <item>—His Book againſt <hi>Baxter.</hi>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
